@@ -1,0 +1,131 @@
+@media only screen and (max-width: 991px) and (min-width: 769px){
+    html  {
+      font-size: 10px;
+    }
+
+    section{
+        padding: 15px 0px 0px 0px !important;
+    }
+
+    #testimonials .carousel-indicators {
+        bottom: -35px;
+    }
+
+    #hero-section .hero-image-container{
+        margin:0;
+    }
+  }
+
+  @media only screen and (max-width: 768px) and (min-width: 577px){
+    html  {
+      font-size: 8px;
+    }
+
+    section{
+        padding: 15px 0px 0px 0px !important;
+    }
+
+    #testimonials .carousel-indicators {
+        bottom: -35px;
+    }
+
+    #hero-section .hero-image-container{
+        margin:0;
+    }
+  }
+
+  
+  @media only screen and (max-width: 576px){
+    html  {
+      font-size: 12px;
+    }
+
+    #header {
+        padding: 15px 5px;
+    }
+
+    #mobile-phone-call-container{
+        border: 2px solid #8CFF00;
+        border-radius: 4px;
+        line-height: 0;
+        padding: 5px;
+    }
+
+    
+    #mobile-phone-call-container a i{
+        color: #00E3D8;
+    }
+
+    
+    
+    .hero-section-cta-text h2{     
+        padding: 0 30px;
+    }
+
+    #hero-section h1{
+        margin-bottom: 10px;
+    }
+
+    #hero-section .hero-image-container{
+        padding: 15px 0 0 0;
+    }
+
+    section{
+        padding: 25px 0px 0px 0px !important;
+    }
+
+    #hero-section .hero-image-container{
+        margin:0;
+    }
+
+    .table thead tr > th:nth-of-type(3), .table tbody > tr > td:nth-of-type(3){
+        display: none !important;                 
+    }
+
+    #information .information-first-image-container img{
+        padding: 0;
+    }
+
+    .information-icon-container img{
+        width: auto;
+        margin-bottom: 10px;
+    }
+
+    #information .information-text-container{
+        margin-bottom: 25px;
+    }
+
+    #testimonials .testimonial-from-text{
+        margin-left: 0px;
+    }
+
+    .testimonial-from-flag img{
+        width: auto;
+    }
+
+    #testimonials .quote-text {
+        margin-top: 10px;
+    }
+
+    #testimonials .quote-text::before{
+        left: 15px;
+        top: -15px;
+    }
+
+    #testimonials .carousel-indicators{
+        bottom: -40px;
+    }
+
+    #connect-with-us .connect-with-us-cta-container .connect-with-us-sub-header-text{
+        margin-bottom: 15px;
+    }
+
+    #connect-with-us .connect-with-us-cta-container{
+        padding: 30px 25px;
+        margin-bottom: 20px;
+    }
+
+    .footer-logo-container{
+        margin-bottom: 15px;
+    }
+  }
